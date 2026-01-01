@@ -3,6 +3,8 @@
 
 Sweet Bliss is a **full-stack MERN (MongoDB, Express, React, Node.js) online cake ordering platform** designed to modernize custom bakery operations. It integrates **AI-powered design recommendations**, **secure payment gateways**, **real-time order tracking**, and a **comprehensive admin dashboard** for inventory, finance, and user management, with a strong focus on scalability and user experience.
 
+!(Landing_Page)[https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20155002.png]
+
 ---
 
 ## 🎯 Project Objective
@@ -64,6 +66,12 @@ Sweet Bliss follows a **client–server architecture** built on the MERN stack t
 - **Loyalty & Feedback**  
   Participate in the *Wheel of Loyalty* rewards system and submit ratings and reviews after completion.
 
+!(Landing_Page)[https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20160916.png]
+!(Landing_Page)[https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20161251.png]
+!(Landing_Page)[https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20161312.png]
+!(Landing_Page)[https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20162553.png]
+!(Landing_Page)[https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20162617.png]
+
 ---
 
 ### 🛠️ Administrator (Owner)
@@ -79,6 +87,14 @@ Sweet Bliss follows a **client–server architecture** built on the MERN stack t
 
 - **Availability Management**  
   Activate *Vacation Mode* to temporarily suspend orders during busy academic periods.
+
+  !(Landing_Page)[https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20161455.png]
+  !(Landing_Page)[https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20161510.png]
+  !(Landing_Page)[https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20161633.png]
+  !(Landing_Page)[https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20161719.png]
+  !(Landing_Page)[https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20161925.png]
+  !(Landing_Page)[https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20162159.png]
+  !(Landing_Page)[https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20162217.png]
 
 ---
 
