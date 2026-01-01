@@ -67,6 +67,7 @@ Sweet Bliss follows a **client–server architecture** built on the MERN stack t
   Participate in the *Wheel of Loyalty* rewards system and submit ratings and reviews after completion.
 
 ![Landing_Page](https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20160916.png)
+![Landing_Page](https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20161020.png)
 ![Landing_Page](https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20161251.png)
 ![Landing_Page](https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20161312.png)
 ![Landing_Page](https://github.com/dyneth02/Sweet-Bliss-Online-Cake-Ordering-Management-System/blob/main/documentation/screenshots/Screenshot%202025-05-15%20162553.png)
