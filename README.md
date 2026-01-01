@@ -1,16 +1,4 @@
-Below is the complete, elaborative **README.md** for your project, formatted in Markdown for easy copying and pasting.
-
----
-
-# Sweet Bliss: Custom Cake Ordering & E-Commerce System
-
-### GitHub Description
-
-Sweet Bliss is a full-stack MERN (MongoDB, Express, React, Node.js) online cake ordering system. It features AI-powered design recommendations, secure payment gateways, real-time tracking, and a comprehensive admin dashboard for inventory, finance, and user management . Designed to modernize custom bakery operations with a focus on scalability and user experience.
-
-### Repository Tags
-
-`#MERN-Stack` `#ReactJS` `#NodeJS` `#MongoDB` `#ExpressJS` `#AI-Image-Generation` `#Ecommerce` `#Cake-Ordering-System` `#FullStack` `#JavaScript` `#Payment-Integration` `#Inventory-Management` `#Agile-Scrum` `#REST-API` `#Web-Development` `#Business-Analytics` `#Loyalty-Rewards` `#Online-Bakery` `#RealTime-Tracking` `#Admin-Dashboard`
+# 🎂 Sweet Bliss: Custom Cake Ordering & E-Commerce System
 
 ---
 
