@@ -1,177 +1,146 @@
-# 🎂 Sweet Bliss: Custom Cake Ordering & E-Commerce System
+# 🍰 Sweet Bliss  
+## Custom Cake Ordering & E-Commerce System
+
+Sweet Bliss is a **full-stack MERN (MongoDB, Express, React, Node.js) online cake ordering platform** designed to modernize custom bakery operations. It integrates **AI-powered design recommendations**, **secure payment gateways**, **real-time order tracking**, and a **comprehensive admin dashboard** for inventory, finance, and user management, with a strong focus on scalability and user experience.
 
 ---
 
 ## 🎯 Project Objective
 
-The primary aim of Sweet Bliss is to develop an efficient and user-friendly online platform that streamlines order management and enhances the overall customer experience.
+The primary aim of **Sweet Bliss** is to deliver an efficient, user-friendly digital platform that streamlines order management and enhances the overall customer experience.
 
-* 
-**Modernize Manual Workflows**: Transition the business from manual WhatsApp/phone communication to a structured digital system.
+### Key Objectives
 
+- **Modernize Manual Workflows**  
+  Transition from WhatsApp/phone-based communication to a structured digital ordering system.
 
-* 
-**Enable Customization**: Provide an intuitive interface for users to personalize cakes by flavor, color, size, toppings, and custom text.
+- **Enable Customization**  
+  Allow users to personalize cakes by flavor, color, size, toppings, themes, and custom text.
 
+- **Empower Small Business Owners**  
+  Designed with student entrepreneurs in mind, featuring *Vacation Mode* to balance academics and business operations.
 
-* 
-**Empower Small Business Owners**: Specifically designed for student entrepreneurs to balance academic schedules via features like "Vacation Mode".
+- **Data-Driven Growth**  
+  Provide automated business insights and financial reports to support informed decision-making and future expansion.
 
-
-* 
-**Data-Driven Growth**: Generate automated business insights and financial reports to support informed decision-making and business expansion.
-
-
+---
 
 ## 🏗️ System Architecture
 
-Sweet Bliss employs a client-server architecture based on the **MERN stack**, which enables modularity, scalability, and high responsiveness.
+Sweet Bliss follows a **client–server architecture** built on the MERN stack to ensure modularity, scalability, and responsiveness.
 
-* 
-**Frontend (React.js)**: Utilized for a dynamic, interactive, and elegant user interface.
+### Architecture Components
 
+- **Frontend (React.js)**  
+  Dynamic, interactive, and visually engaging user interface.
 
-* 
-**Backend (Express.js & Node.js)**: Facilitates robust backend operations and RESTful API creation.
+- **Backend (Node.js & Express.js)**  
+  Handles core business logic and RESTful API endpoints.
 
+- **Database (MongoDB)**  
+  NoSQL database with flexible, JSON-like collections suitable for complex custom order structures.
 
-* 
-**Database (MongoDB)**: A NoSQL platform that stores data in flexible, JSON-like collections, ideal for complex custom order specifications.
+- **Third-Party APIs**  
+  Integrated for AI-powered image generation and secure online payment processing.
 
-
-* 
-**3rd Party APIs**: Integrated for automated AI-powered image generation and secure payment processing.
-
-
+---
 
 ## 👥 User Roles & Functionalities
 
-### 👤 Customer (End-User)
+### 👤 Customer (End User)
 
-* 
-**Personalized Ordering**: Browse the store and place custom cake orders with specific themes and dates.
+- **Personalized Ordering**  
+  Browse products and place custom cake orders with themes, dates, and special requirements.
 
+- **AI Design Assistant**  
+  Upload inspiration images or generate AI-based design recommendations.
 
-* 
-**AI Design Assistant**: Upload inspirations or generate AI-powered design recommendations if no design is ready.
+- **Secure Checkout**  
+  Payments via Visa, Mastercard, and AMEX with automated invoice generation.
 
+- **Real-Time Order Tracking**  
+  Track progress from order approval to baking and delivery.
 
-* 
-**Secure Checkout**: Make payments via integrated gateways (Visa, Mastercard, AMEX) and receive automated invoices .
+- **Loyalty & Feedback**  
+  Participate in the *Wheel of Loyalty* rewards system and submit ratings and reviews after completion.
 
-
-* 
-**Order Tracking**: Monitor real-time progress from baking to delivery .
-
-
-* 
-**Loyalty & Feedback**: Participate in the "Wheel of Loyalty" rewards and submit ratings/reviews after order completion .
-
-
+---
 
 ### 🛠️ Administrator (Owner)
 
-* 
-**Dashboard Analytics**: View real-time overviews of monthly revenue, user inquiries, and active orders .
+- **Dashboard Analytics**  
+  Real-time overview of revenue, inquiries, and active orders.
 
+- **Inventory Control**  
+  Manage stock levels, add new products, and receive low-stock alerts.
 
-* 
-**Inventory Control**: Manage stock levels, add new bakery items, and receive low-stock alerts.
+- **Financial Reporting**  
+  Generate sales, inventory, and customer reports in PDF or Excel formats.
 
+- **Availability Management**  
+  Activate *Vacation Mode* to temporarily suspend orders during busy academic periods.
 
-* 
-**Financial Reporting**: Generate sales, inventory, and customer activity reports in PDF or Excel formats .
-
-
-* 
-**Availability Management**: Activate "Vacation Mode" to temporarily disable ordering during busy academic periods.
-
-
+---
 
 ## 🚀 Why Sweet Bliss Matters
 
-Sweet Bliss addresses critical limitations found in existing generic e-commerce platforms.
+Sweet Bliss addresses limitations found in generic e-commerce platforms by focusing on the unique workflow of custom bakery operations.
 
-* 
-**Specialized Workflow**: Unlike general food delivery apps, it focuses on the unique approval and customization journey of bespoke cakes.
+### Key Advantages
 
+- **Specialized Workflow**  
+  Designed specifically for bespoke cake approval and customization processes.
 
-* 
-**Reduced Manual Burden**: Automates the time-consuming process of manual order tracking and ingredient checking.
+- **Reduced Manual Burden**  
+  Automates order tracking, ingredient monitoring, and customer communication.
 
+- **Owner-Centric Design**  
+  Features such as *Inflexible Order Approval* and *Vacation Mode* prevent operational overload.
 
-* 
-**Owner-Centric Design**: Includes features like "Inflexible Order Approval" and "Vacation Mode" to ensure the baker is never overwhelmed .
+- **Built for Trust**  
+  Transparent tracking and automated refund handling improve customer confidence.
 
-
-* 
-**Built for Trust**: Enhances customer trust through transparent tracking and automated refund systems for rejected orders.
-
-
+---
 
 ## 🛠️ Technical Implementation
 
-* 
-**Methodology**: Developed using **Agile/Scrum** to ensure flexibility and rapid prototyping .
+- **Methodology**: Agile / Scrum for iterative development and flexibility  
+- **Version Control**: GitHub with branching and pull request workflows  
+- **Testing**:  
+  - Automated API testing using Postman  
+  - 36 comprehensive manual test cases  
+- **Project Management**:  
+  - JetBrains YouTrack  
+  - Trello Kanban boards
 
-
-* 
-**Version Control**: Managed via **GitHub** with a branching and pull request system for quality assurance.
-
-
-* 
-**Testing**: Validated through **Postman** (automated) and 36 comprehensive manual test case scenarios .
-
-
-* 
-**Project Management**: Tracked through **JetBrains YouTrack** and Trello Kanban boards.
-
-
+---
 
 ## 📊 Performance Evaluation
 
-The system was evaluated by a selected group of 15 users with the following results:
+The system was evaluated by a selected group of 15 users.
 
-| Metric | Rating (Out of 10) |
-| --- | --- |
-| **User Experience** | 8.5 
-
- |
-| **Usability** | 8.0 
-
- |
-| **Performance** | 7.0 
-
- |
-| **Accuracy** | 6.0 
-
- |
+| Metric         | Rating (out of 10) |
+|----------------|--------------------|
+| User Experience| 8.5 |
+| Usability      | 8.0 |
+| Performance    | 7.0 |
+| Accuracy       | 6.0 |
 
 ---
 
-### 👨‍💻 Development Team
+## 👨‍💻 Development Team
 
-* 
-**Kariyawasam LLN**: Inventory Management, Cart functionality, and Low-stock alerts.
+- **Hirusha D.G.A.D**  
+  Custom Order Management, AI Integration, Report Generation
 
+- **Kariyawasam L.L.N**  
+  Inventory Management, Cart Functionality, Low-Stock Alerts
 
-* 
-**Hirusha D GAD**: Custom Order Management, AI integration, and Report Generation.
+- **Budara H.M.K**  
+  User Management, Authentication, Order Tracking
 
+- **Eranthnage T.N**  
+  Feedback Management, Admin Moderation, Sentiment Analysis
 
-* 
-**Budara H MK**: User Management, Login/Registration, and Order Tracking.
-
-
-* 
-**Eranthnage T N**: Feedback Management, Admin Moderation, and Sentiment Analysis.
-
-
-* 
-**Budara V PR**: Finance Management, Loyalty Wheel, and Invoice Generation.
-
-
-
----
-
-**Would you like me to generate a "How to Run" section including the specific MongoDB URI and Node environment setups mentioned in your documentation?**
+- **Budara V.P.R**  
+  Finance Management, Loyalty Wheel, Invoice Generation
